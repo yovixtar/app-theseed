@@ -1,0 +1,3 @@
+#1BBF3C - Outter
+#FFED00	- Inner (Green)&Text
+#009846 - Inner (Yellow)
